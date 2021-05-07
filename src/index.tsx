@@ -1,4 +1,5 @@
 import { createApp, defineComponent, ref } from 'vue';
+import './style.less'
 
 const App = defineComponent({
   setup() {
